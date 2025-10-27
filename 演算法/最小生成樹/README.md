@@ -13,8 +13,7 @@
 - VCL Components
 - STL / Algorithm Library
 
-## 📈 功能與特色
-![介面示意](./mst.png)
+## 📈 功能介紹
 
 - 可輸入頂點數量（生成 n×n 鄰接矩陣）。
 - 指定圖的類型：有向圖 / 無向圖。
