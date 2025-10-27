@@ -16,10 +16,6 @@
 - VCL Components
 - STL / Algorithm Library
 
-## 🖼️ 介面示意
-
-![介面示意](./demo.png)
-
 ## 📈 功能與特色
 
 - 上方工具列可控制地圖大小（M×N）、迷宮生成與動畫速度（生成動畫、行走動畫）。
