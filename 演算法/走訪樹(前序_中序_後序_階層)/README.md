@@ -13,8 +13,7 @@
 - VCL Components
 - STL / Algorithm Library
 
-## 📈 功能與特色
-![介面示意](./tree_traversal.png)
+## 📈 功能介紹
 
 - **測資**：可直接輸入節點數據建立樹。
 - **a ~ b 隨機**：在指定範圍內隨機生成節點並插入樹中。
