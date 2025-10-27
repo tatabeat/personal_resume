@@ -13,8 +13,7 @@
 - VCL Components
 - STL / Algorithm Library
 
-## 📈 功能與特色
-![介面示意](./shortest_path.png)
+## 📈 功能與介紹
 
 - 依序輸入：頂點數 → 圖類型（有向/無向） → 邊密度（百分比），自動生成鄰接矩陣。
 - 可選擇 **Dijkstra** 或 **Floyd–Warshall** 計算最短路徑。
