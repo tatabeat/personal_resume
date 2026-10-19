@@ -1,0 +1,22 @@
+# Secrets and local environment
+key.json
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+
+# Runtime screenshots can contain personal or account information
+logs/
+
+# Python and editor output
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

@@ -1,0 +1,24 @@
+# Local Python environments and packaging output
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+
+# Generated diagnostics and user-specific output
+Debug_log/
+*.wav
+*.npz
+gestures.json
+vtl_bridge.json
+voice_profile.json
+
+# Local editor and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
